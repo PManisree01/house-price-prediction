@@ -1,0 +1,11 @@
+Area,Bedrooms,Bathrooms,Age,Location,Parking,Floor,Price
+1200,2,2,10,Suburb,1,2,4500000
+1800,3,3,5,City Center,1,2,7500000
+2500,4,4,2,Suburb,2,7,12000000
+1500,3,2,15,Rural,0,6,3000000
+2200,3,3,8,City Center,1,6,9500000
+1100,2,1,20,Suburb,1,3,2800000
+2800,5,4,3,City Center,1,4,15000000
+1350,3,2,12,Rural,1,3,4200000
+1950,4,3,6,Suburb,2,5,8200000
+1650,3,2,9,City Center,3,4,6800000
